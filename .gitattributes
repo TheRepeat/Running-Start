@@ -5,3 +5,9 @@
 .uasset filter=lfs diff=lfs merge=lfs -text
 .uproject filter=lfs diff=lfs merge=lfs -text
 *.umap filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+=======
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.uproject filter=lfs diff=lfs merge=lfs -text
+>>>>>>> f5978c88505445e5f674032f0cc3e97b905485d3
