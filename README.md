@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Running Start
-=======
-# Running-Start
-First person platformer
->>>>>>> f5978c88505445e5f674032f0cc3e97b905485d3
+# "Running Start"
+First-person platformer made for CSCE 4220. Made using Unreal Engine 4.
+.exe available on request
